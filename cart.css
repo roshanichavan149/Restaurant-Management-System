@@ -1,0 +1,29 @@
+.products {
+border:1px solid #333;
+background-color: #f1f1f1;
+border-radius: 5px;
+padding:16px;
+margin-bottom: 20px;
+}
+.cards{
+	display: flex;
+}
+.table {
+	margin: 0px auto;
+	float: none;
+}
+.row{
+	margin: 0px auto;
+	float: none;
+}
+.centered{
+	float: none;
+	margin: 0px auto;
+}
+
+a{
+	text-decoration: none;
+}
+h3{
+	margin-top: 0px;
+}
