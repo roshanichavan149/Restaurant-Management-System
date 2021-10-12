@@ -14,9 +14,10 @@ The features are:
 
 6.Resturant will be able to login and update and delete it's menu.
 
+
 Technologies Used:
 
-Front end Requirements:
+A)Front end Requirements:
 
 1.HTML
 
@@ -24,11 +25,12 @@ Front end Requirements:
 
 3.Bootstrap
 
-Back end Requirements:
+B)Back end Requirements:
 
 1.PHP
 
 2.MySQL
+
 
 Developement Team:
 
