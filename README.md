@@ -27,13 +27,3 @@ Graphical User Interface:
 <img width="537" alt="Register" src="https://user-images.githubusercontent.com/73379995/138641608-be8f7bd4-7f96-4d4c-bc2b-8c2ebae5e7f7.PNG">
 
 
-
-Developement Team:
-
-1.Roshani Chavan
-
-2.Neha Adawadkar
-
-3.Shrutika More
-
-4.Chaitra Patwardhan
